@@ -64,3 +64,7 @@ local.properties
 ## mac OS X
 ##############################
 .DS_Store
+
+## mac1 OS X
+##############################
+.DS_Store
